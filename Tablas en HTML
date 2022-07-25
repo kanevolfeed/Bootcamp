@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>TITULO</th>
+        <th>AUTOR</th>
+        <th>AÑO DE PUBLICACIÓN</th>
+        <th>ENLACE AMAZON</th>
+      </tr>
+      <tr>
+        <td>El alquimista</td>
+        <td>Paulo Coelho</td>
+        <td>2018</td>
+        <td>
+          <a
+            href="https://www.amazon.com/-/es/Paulo-Coelho-ebook/dp/B07BL2PHTK/ref=sr_1_1?adgrpid=127034041873&gclid=Cj0KCQjw_viWBhD8ARIsAH1mCd5TWfWnvccGIzm3ywOpt6FTTuRpO4UyocBrGSYzbl1a0gl1hZkLxCgaAgWxEALw_wcB&hvadid=602469584077&hvdev=c&hvlocphy=1003654&hvnetw=g&hvqmt=b&hvrand=5895054853945599622&hvtargid=kwd-1272035323&hydadcr=16240_13569333&keywords=el+alquimista+paulo+coelho&qid=1658764316&sr=8-1"
+            target="_blank"
+            >Go to Amazon</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td>A orillas del río piedra me senté y lloré</td>
+        <td>Paulo Coelho</td>
+        <td>1996</td>
+        <td>
+          <a
+            href="https://www.amazon.com/s?k=a+orillas+de+rio+piedra+me+sente+y+llore&sprefix=A+orillas%2Caps%2C132&ref=nb_sb_ss_retrain-deeppltr_1_9"
+            target="_blank"
+            >Go to Amazon</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td>La física de lo imposible</td>
+        <td>Michio Kaku</td>
+        <td>2010</td>
+        <td>
+          <a
+            href="https://www.amazon.com/-/es/Michio-Kaku-ebook/dp/B0062U2KNC/ref=sr_1_1?keywords=fisica+de+lo+imposible&qid=1658764604&sprefix=fisica+de+lo+imp%2Caps%2C133&sr=8-1"
+            target="_blank"
+            >Go to Amazon</a
+          >
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
